@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mihir8968
+- <h1>👋 Hi, I’m @Mihir8968
 - 👀 I’m interested in programming and learning new things
 - 🌱 I’m currently learning data structures and algorithms
 - 📫 How to reach me LinkedIn : https://www.linkedin.com/in/mihir-anand-32471b298/
