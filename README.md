@@ -1,11 +1,25 @@
-- <h1>👋 Hi, I’m @Mihir8968
-- 👀 I’m interested in programming and learning new things
-- 🌱 I’m currently learning data structures and algorithms
-- 📫 How to reach me LinkedIn : https://www.linkedin.com/in/mihir-anand-32471b298/
-- 😄 Pronouns: he, him
-- ⚡ Fun fact: GitHub was founded in April, 2008
+# Hi there, I'm Mihir! 👋
 
-<!---
-Mihir8968/Mihir8968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate **Electrical Engineering** and **Chemistry** student with a love for technology, programming, and learning new things. When I'm not busy with my studies, you can find me diving into various coding projects or doing competetive programming. 🚀
+
+## 🚀 About Me
+
+- 💻 **Currently studying**: MSc in Chemistry & B.E. in Electrical and Electronics Engineering (EEE) at BITS Pilani
+- 🌟 **Interests**: Competitive programming, web development, making cool projects using my programming skills
+
+## 🌱 Learning & Growing
+
+I'm always learning and growing, both personally and professionally. If you have any tips, projects, or cool tech ideas, feel free to share them with me!
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/mihir-anand)
+- [Email](mailto:mihir8968@gmail.com)
+
+## ⚡ Fun Fact
+
+I love vigilante characters and enjoy exploring different types of technology. If you share similar interests or just want to chat, don’t hesitate to reach out!
+
+---
+
+**Thank you for visiting my profile!** Feel free to explore my repositories and get in touch if you want to collaborate or just talk tech! 😊
