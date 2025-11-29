@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Electrical Engineering** and **
 ## 🚀 About Me
 
 - 💻 **Currently studying**: MSc in Chemistry & B.E. in Electrical and Electronics Engineering (EEE) at BITS Pilani
-- 🌟 **Interests**: Competitive programming, web development, making cool projects using my programming skills
+- 🌟 **Interests**: Competitive programming, machine learning, electronics, making cool projects using my programming skills
 
 ## 🌱 Learning & Growing
 
